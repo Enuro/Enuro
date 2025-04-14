@@ -6,7 +6,7 @@
             height="140px"
         >
         <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enruo&layout=compact&theme=noctis_minimus&hide_title=true&count_private=true"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enuro&layout=compact&theme=noctis_minimus&hide_title=true&count_private=true"
             alt="Top Langs"
             height="140px"
         >
